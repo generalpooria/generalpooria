@@ -27,7 +27,7 @@
 <div align="center">
   <h3>Business & Contact</h3>
   <p>
-    <a href="mailto:YOUR_EMAIL@DOMAIN.COM">
+    <a href="contact@pooriazamani.me">
       <img src="https://img.shields.io/badge/Email-Business_Inquiries-0052CC?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Email" />
     </a>
     <a href="https://linkedin.com/in/YOUR_LINKEDIN">
